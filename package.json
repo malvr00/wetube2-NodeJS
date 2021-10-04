@@ -1,0 +1,16 @@
+{
+  "name": "wetube2",
+  "version": "1.0.0",
+  "description": "The best way to watch a videos.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malvr00/wetube2-NodeJS.git"
+  },
+  "author": "Yong Il <yedn1128@naver.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/malvr00/wetube2-NodeJS/issues"
+  },
+  "homepage": "https://github.com/malvr00/wetube2-NodeJS#readme"
+}
